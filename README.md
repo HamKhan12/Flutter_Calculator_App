@@ -3,7 +3,8 @@
 A beautiful and functional calculator application built with Flutter, featuring a clean user interface and advanced mathematical capabilities.
 
 ## Screenshot
-![WhatsApp Image 2025-08-27 at 5 21 57 PM](https://github.com/user-attachments/assets/a8c121ab-8719-4b85-a9fc-b7f8454ef934)
+<img width="720" height="1650" alt="image" src="https://github.com/user-attachments/assets/37f87abc-3e72-46b7-9590-9a398b905a6d" />
+
 
 
 ## Features
